@@ -1,0 +1,19 @@
+{
+  "name": "the-world-app",
+  "version": "1.0.0",
+  "description": "A Node.js app with Highcharts Maps in a Docker container.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "highcharts": "^11.4.1",
+  "@highcharts/map-collection": "^2.1.0",
+  "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

@@ -1,0 +1,14 @@
+[
+  "/node_modules/@highcharts/map-collection/custom/world-highres3.topo.json",
+  "/node_modules/@highcharts/map-collection/custom/africa.topo.json",
+  "/node_modules/@highcharts/map-collection/custom/antarctica.topo.json",
+  "/node_modules/@highcharts/map-collection/custom/asia.topo.json",
+  "/node_modules/@highcharts/map-collection/custom/europe.topo.json",
+  "/node_modules/@highcharts/map-collection/custom/north-america.topo.json",
+  "/node_modules/@highcharts/map-collection/custom/south-america.topo.json",
+  "/node_modules/@highcharts/map-collection/custom/oceania.topo.json",
+  "/node_modules/@highcharts/map-collection/custom/middle-east.topo.json",
+  "/node_modules/@highcharts/map-collection/custom/central-america.topo.json",
+  "/node_modules/@highcharts/map-collection/custom/nordic-countries.topo.json",
+  "/node_modules/@highcharts/map-collection/custom/british-isles.topo.json"
+]
